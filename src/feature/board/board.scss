@@ -1,0 +1,17 @@
+.board {
+    margin-bottom: 24px;
+
+    table, tbody, tr, td {
+        border: 3px black solid;
+        border-style: double;
+    }
+
+    td {
+        color: red;
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+        font-family: sans-serif;
+        text-align: center;
+    }
+}
